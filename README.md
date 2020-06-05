@@ -13,3 +13,5 @@ The project had us doing -
 - ML modeling (Logistic Regression, Random Forest, XGBoost, CNN)
 
 We did the ETL and modeling on Google Colab.
+
+You can learn more about our findings and results in the writeup in this repo.
